@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Exceptions
+!.gitignore
+!cw_recruitment.gpg
+!Makefile
+!Makefile
+!README.md
+
+# Publish folder
+!publish_folder/
+publish_folder/*
+!publish_folder/*.gpg
