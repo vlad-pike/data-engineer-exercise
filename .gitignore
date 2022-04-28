@@ -7,6 +7,8 @@
 !Makefile
 !Makefile
 !README.md
+!working_folder/
+!working_folder/*.py
 
 # Publish folder
 !publish_folder/
